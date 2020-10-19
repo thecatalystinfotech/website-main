@@ -2456,3 +2456,9 @@ body {
   font-size: 30px !important;
   transition: 0.4s ease-out !important;
 }
+
+@media (max-width: 768px) {
+  #textdummy {
+    font-size: 20px !important;
+  }
+}
